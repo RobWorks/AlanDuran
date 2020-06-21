@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_time>"vie 06 mar 2020 17:33:21 CST"</calibration_time>
+<nr_of_frames>75</nr_of_frames>
+<image_width>1280</image_width>
+<image_height>720</image_height>
+<board_width>8</board_width>
+<board_height>6</board_height>
+<square_size>2.8500000000000000e+01</square_size>
+<fix_aspect_ratio>1.</fix_aspect_ratio>
+<!-- flags: +fix_aspectRatio +fix_principal_point +fix_k4 +fix_k5 -->
+<flags>6150</flags>
+<fisheye_model>0</fisheye_model>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    6.8389293843809025e+02 0. 640. 0. 6.8389293843809025e+02 360. 0. 0.
+    1.</data></camera_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -3.3644512417664274e-01 1.3123230602414909e-01
+    4.4290645018379513e-03 6.2481586868775143e-04
+    -2.4642086010112498e-02</data></distortion_coefficients>
+<avg_reprojection_error>4.5903142501200084e-01</avg_reprojection_error>
+</opencv_storage>
