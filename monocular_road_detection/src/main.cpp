@@ -53,7 +53,7 @@ static bool rewind_frame = false;
 static bool forward_frame = false;
 
 //Read video
-string filename = "../data/road/iteso.mp4";
+string filename = "../input_data/iteso.mp4";
 VideoCapture cap(filename);
 
 string winName = "GUI v0.1";
